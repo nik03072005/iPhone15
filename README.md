@@ -2,7 +2,7 @@
 
 This project is a clone of the **Apple iPhone 15 Pro** website, showcasing interactive 3D models of the iPhone in various colors and shapes. Built with **React.js**, **TailwindCSS**, **GSAP**, and **Three.js**.
 
-**Live Demo**: [Visit iPhone 15 Pro Clone](https://iphone15-app.netlify.app/)
+**Live Demo**: [Visit iPhone 15 Pro Clone](https://i-phone15-liard.vercel.app/)
 
 Currently, the following technologies are used:
 
